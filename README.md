@@ -42,7 +42,7 @@ npm i
 Para compilar los archivos, ejecuta:
 
 ```bash
-npm run build
+npx tsc
 ```
 
 ### Iniciar el Servidor de Desarrollo de la Aplicación Node.js
